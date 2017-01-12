@@ -1,8 +1,8 @@
 body{
     background-image: url('../images/roger.jpg');
-    background-size: cover;
+    background-size: auto;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-position: 20% 20%;
 }
 .container-fluid{
