@@ -1,6 +1,6 @@
 body{
     background-image: url('../images/roger.jpg');
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: 20% 20%;
