@@ -38,7 +38,7 @@ input[type=text].my-input,input[type=email].my-input{
     border-radius: 0;
     border-width: 0 0 1px 0;
     border-color: gray;
-    color: #FFA0AC;
+    color: orange;
     height: 0.5em;
 }
 
